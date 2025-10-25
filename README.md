@@ -138,7 +138,4 @@ Voici un exemple de l'exécution du programme (screenshot) :
 
 
 
----
-
-### Diagramme de classes UML simplifié
 

@@ -48,7 +48,11 @@ Bitcoin (1A2b3C4d5E) : fond insuffisant (0.10)<100.00>
 
 ```
 
+## Exemple d’exécution (image)
 
+Voici un exemple de l'exécution du programme (screenshot) :
+
+![Exécution du programme](execution.EX1.PNG)
 
 
 
@@ -123,7 +127,11 @@ Channel [Push, prio=0]: [Push] App: com.monapp.id User: +33987654321 — Votre c
 
 ```
 
+## Exemple d’exécution (image)
 
+Voici un exemple de l'exécution du programme (screenshot) :
+
+![Exécution du programme](execution.EX2.PNG)
 
 
 
